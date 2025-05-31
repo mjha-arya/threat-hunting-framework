@@ -1,7 +1,9 @@
 🛡️ Threat Library
+
 A visual, interactive library for exploring cybersecurity threats, categorized by impact and threat surface. This tool is designed to help analysts, security engineers, and researchers gain fast insights into attack techniques, countermeasures, and real-world threat variants.
 
 🔍 Features
+
 Threat Classification
 Browse threats categorized by impact level (High, Medium, Low) and threat surface.
 
